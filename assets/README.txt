@@ -1,0 +1,1 @@
+Replace these sample resources with your own classroom image/audio if needed. Keep the filenames matching IMAGE_NAME and AUDIO_NAME in classroom_demo.py.
