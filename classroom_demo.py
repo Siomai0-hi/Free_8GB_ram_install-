@@ -10,8 +10,8 @@ import pygame
 
 
 # Change these values to select another bundled resource or duration.
-IMAGE_NAME = "classroom_slide.png"
-AUDIO_NAME = "classroom_audio.wav"
+IMAGE_NAME = "Aimr.jpg"
+AUDIO_NAME = "universfield-male-horror-scream-08-352438.wav"
 DURATION_SECONDS = 10
 
 
